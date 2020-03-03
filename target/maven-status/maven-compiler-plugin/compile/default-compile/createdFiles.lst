@@ -1,0 +1,6 @@
+com\company\crudspring\model\StudentEntity.class
+com\company\crudspring\CrudSpringApplication.class
+com\company\crudspring\repository\StudentRepository.class
+com\company\crudspring\controllers\StudentController.class
+com\company\crudspring\exception\RecordNotFoundException.class
+com\company\crudspring\service\StudentService.class
